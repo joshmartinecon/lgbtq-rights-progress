@@ -7,7 +7,7 @@
 
 My thinking was that while the trend was increasing in terms of the share of countries recognizing LGBTQ rights, the change in the population who enjoy the benefits of protections would be significantly more muted.
 
-The article contains publicly accessible data so I decided to check if I was correct. Here is a link to my code to see how I define these policies and to check for any mistakes.
+The article contains publicly accessible data so I decided to check if I was correct. [Here is a link to my code](https://github.com/joshmartinecon/lgbtq-rights-progress/blob/main/ourworldindata%20lgbt%20rights.R) to see how I define these policies and to check for any mistakes.
 
 # Finding
 
